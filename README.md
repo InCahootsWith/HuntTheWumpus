@@ -15,7 +15,7 @@ CURRENT INCOMPLETE LANGUAGES:
 - Python: To see how fast it will go 
 - C#: Writing this in unity to see if I can create a cool visual 
 
-
+THE MAP / THE RULES
 - 12 rooms in total
 - Each room has 3 tunnels to other rooms
 - You can only move to one room at a time
